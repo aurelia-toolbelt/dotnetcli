@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>AureliaToolbelt.AspNetCore</id>
+        <version>1.0.0-beta</version>
+        <description>A template to use AureliaToolbelt with ASP.NET Core and Webpack4</description>
+        <authors>Saeed Ganji (shahabganji@gmail.com)</authors>
+        <language>en-US</language>
+        <projectUrl>https://github.com/aurelia-toolbelt/aurelia-toolbelt</projectUrl>
+        <licenseUrl>https://github.com/aurelia-toolbelt/aurelia-toolbelt/blob/master/LICENSE</licenseUrl>
+        <copyright>Copyright 2017: Saeed Ganji - Aurelia Tooolbelt. All right Reserved.</copyright>
+        <requireLicenseAcceptance>true</requireLicenseAcceptance>
+        <packageTypes>
+            <packageType name="Template" />
+        </packageTypes>
+    </metadata>
+</package>
