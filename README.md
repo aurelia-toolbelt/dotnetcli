@@ -3,7 +3,7 @@ Create an ASP.NET Core project using Aurelia and its Toolbelt
 
 Install the template by running:
 ```shell
-  dotnet new --install AureliaToobelt.AspNetCore::1.0.0-beta
+  dotnet new --install AureliaToobelt.AspNetCore::1.0.1-beta
 ```
 
 then simply run: 
